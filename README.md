@@ -1,22 +1,4 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name:hiya
-            # Text on contribution graph 
-            text: JASINERI
-       - uses: jasineri/simple-push-action@v1
-       <h1 align="center">Hi 👋, I'm Hiya Jayaswal</h1>
+<h1 align="center">Hi 👋, I'm Hiya Jayaswal</h1>
 <h3 align="center">Software developer @Zetrance XR | Web Development | Artificial Intelligence | Machine Learning| 3D Modelling</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiya-jayaswal&label=Profile%20views&color=0e75b6&style=flat" alt="hiya-jayaswal" /> </p>
