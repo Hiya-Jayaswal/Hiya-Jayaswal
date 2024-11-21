@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiya Jayaswal</h1>
-<h3 align="center">Software developer @Zetrance XR | Web Development | Artificial Intelligence | Machine Learning| 3D Modelling</h3>
+<h3 align="center">Researcher @ISRO ex Developer @Zetrance XR | Web Development | Artificial Intelligence | Machine Learning| 3D Modelling</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiya-jayaswal&label=Profile%20views&color=0e75b6&style=flat" alt="hiya-jayaswal" /> </p>
 
